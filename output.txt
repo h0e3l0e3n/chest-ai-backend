@@ -1,0 +1,19 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]
+Loading weights: 100%|##########| 103/103 [00:00<00:00, 5089.75it/s]
+BertModel LOAD REPORT from: sentence-transformers/all-MiniLM-L6-v2
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+Notes:
+- UNEXPECTED	:can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+DIAGNOSIS_TRANSLATED: At├⌐lectasie
+EXPLANATION_TRANSLATED: SIMPLE HEALTH OVERVIEW (French (Fran├ºais))
+
+Here is an easy-to-understand summary of At├⌐lectasie based on medical literature:
+
+ΓÇó Diaphragme : les mouvements diaphragmatiques et l'├⌐paississement sont g├⌐n├⌐ralement ├⌐valu├⌐s lors de la respiration courante et profonde. Des excursions r├⌐duites et un ├⌐paississement peuvent indiquer un dysfonctionnement diaphragmatique. aspiration et infection r├⌐currentes. Trach├⌐omalacie Cette anomalie relativement courante (Γê╝1 en 2000) est caract├⌐ris├⌐e par une faiblesse de la paroi trach├⌐ale, due ├á une r├⌐duction et/ou une atrophie des fibres ├⌐lastiques longitudinales de la pars membranacea, un ├⌐largissement de la pars membranacea ou une alt├⌐ration de l'int├⌐grit├⌐ du cartilage (┬½ immaturit├⌐ ┬╗). Elle peut ├¬tre primaire ou secondaire, et peut ├¬tre localis├⌐e ou g├⌐n├⌐ralis├⌐e. La trach├⌐omalacie primaire peut ├¬tre associ├⌐e ├á une atr├⌐sie de l'┼ôsophage, au syndrome de Down, au syndrome d'Ehlers-Danlos et ├á une laryngomalacie ou une bronchomalacie.
+
+Avertissement┬á:┬áil s'agit d'un r├⌐sum├⌐ g├⌐n├⌐r├⌐ par l'IA. Consultez toujours votre m├⌐decin pour obtenir un v├⌐ritable avis m├⌐dical.
